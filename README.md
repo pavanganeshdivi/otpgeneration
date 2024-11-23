@@ -5,7 +5,6 @@ This project implements a simple One-Time Password (OTP) generator and validatio
 ## Key Features:
  **OTP Generation**: Generates a 4-digit OTP (One-Time Password) when the user clicks a button.
  **OTP Validation**: Validates the entered OTP against the generated OTP and checks if it is expired.
- **OTP Expiry**: OTPs expire after 30 seconds to enhance security.
  **User Feedback**: Displays messages based on whether the OTP is valid, expired, or incorrect.
 
 ## Technologies Used:
