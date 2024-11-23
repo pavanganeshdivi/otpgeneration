@@ -3,14 +3,14 @@
 This project implements a simple One-Time Password (OTP) generator and validation system using HTML, CSS, and JavaScript. The goal is to provide a secure and user-friendly way to generate and validate OTPs for sensitive actions, such as logging in or verifying transactions.
 
 ## Key Features:
- **OTP Generation**: Generates a 4-digit OTP (One-Time Password) when the user clicks a button.
- **OTP Validation**: Validates the entered OTP against the generated OTP and checks if it is expired.
- **User Feedback**: Displays messages based on whether the OTP is valid, expired, or incorrect.
+ -**OTP Generation**: Generates a 4-digit OTP (One-Time Password) when the user clicks a button.
+ -**OTP Validation**: Validates the entered OTP against the generated OTP and checks if it is expired.
+ -**User Feedback**: Displays messages based on whether the OTP is valid, expired, or incorrect.
 
 ## Technologies Used:
- **HTML**: For the structure of the web page.
- **CSS**: For styling and making the user interface visually appealing.
- **JavaScript**: For OTP generation logic, validation, and interaction handling.
+ -**HTML**: For the structure of the web page.
+ -**CSS**: For styling and making the user interface visually appealing.
+ -**JavaScript**: For OTP generation logic, validation, and interaction handling.
 
 ## How It Works:
 
